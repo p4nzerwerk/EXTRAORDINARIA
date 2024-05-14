@@ -1,0 +1,89 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h1.header{
+    text-align: center;
+    color: orange;
+}
+
+span{
+    color: orange;
+}
+
+p.smr1{
+    position: relative;
+    left: 250px;
+}
+
+p.smr{
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+
+div.smr{
+    background-color: pink;
+    color: blue;
+}
+
+div.dam{
+    background-color: gray;
+    color: blue;
+}
+
+p.dam{
+text-align: center;
+}
+
+p.dam1{
+    position: relative;
+    left: 850px;
+    top: -10px;
+}
+
+div.asir{
+    background-color: lightblue;
+    color: blue;
+}
+
+div.asir2{
+    position: relative;
+    left: 1500px;
+}
+
+p.asir{
+    position: relative;
+    top: 10px;
+}
+
+span.span1{
+    color: red;
+}
+
+footer{
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+    position: relative;
+}
+
+div.tabla{
+    text-align: center;
+    background-color: lightblue;
+}
+
+table{
+    color: blue;
+    position: relative;
+    left: 700px;
+}
+
+div.dam{
+    background-color: lightblue;
+    color: blue;
+}
+
+div.gris{
+    background-color: grey;
+}
